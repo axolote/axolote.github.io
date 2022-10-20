@@ -1,1 +1,4 @@
 *.refs
+.Rproj.user
+.Rhistory
+.RData
